@@ -1,0 +1,19 @@
+// 创建一个新的 Core Data 模型文件
+// Entity name: Expense
+// Attributes:
+// - id: UUID
+// - amount: Double
+// - date: Date
+// - title: String
+// - category: String
+// - note: String 
+
+// 添加新的 Budget Entity
+// Entity name: Budget
+// Attributes:
+// - id: UUID
+// - category: String
+// - amount: Double
+// - period: String (monthly/yearly)
+// - startDate: Date
+// - endDate: Date 
